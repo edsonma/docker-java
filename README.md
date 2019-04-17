@@ -1,4 +1,4 @@
-# https://github.com/seatecnologia/docker-java
+# https://github.com/edsonma/docker-java
 
 ## Maintained by: Edson Ma
 
